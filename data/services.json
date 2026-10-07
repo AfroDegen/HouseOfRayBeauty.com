@@ -1,0 +1,110 @@
+[
+    {
+        "id": "botox",
+        "title": "Botox",
+        "category": "Aesthetics",
+        "shortDescription": "Explore Botox treatment at House of Ray.",
+        "description": "Learn more about Botox at House of Ray and discuss whether the treatment is right for you during a consultation.",
+        "image": "assets/images/services/botox.jpg",
+        "gallery": [
+            "assets/images/services/botox-01.jpg",
+            "assets/images/services/botox-02.jpg"
+        ]
+    },
+    {
+        "id": "dermal-fillers",
+        "title": "Dermal Fillers",
+        "category": "Aesthetics",
+        "shortDescription": "Explore dermal filler treatments at House of Ray.",
+        "description": "Discover dermal filler options available at House of Ray and speak with the team about your individual goals and treatment options.",
+        "image": "assets/images/services/dermal-fillers.jpg",
+        "gallery": [
+            "assets/images/services/dermal-fillers-01.jpg",
+            "assets/images/services/dermal-fillers-02.jpg"
+        ]
+    },
+    {
+        "id": "body-fillers",
+        "title": "Body Fillers",
+        "category": "Body",
+        "shortDescription": "Explore body filler treatments at House of Ray.",
+        "description": "Find out more about body filler treatments and arrange a consultation with House of Ray to discuss your needs.",
+        "image": "assets/images/services/body-fillers.jpg",
+        "gallery": [
+            "assets/images/services/body-fillers-01.jpg",
+            "assets/images/services/body-fillers-02.jpg"
+        ]
+    },
+    {
+        "id": "fat-freezing",
+        "title": "Fat Freezing",
+        "category": "Body",
+        "shortDescription": "Explore fat freezing treatment at House of Ray.",
+        "description": "Learn more about the fat freezing options available at House of Ray and discuss your goals during a consultation.",
+        "image": "assets/images/services/fat-freezing.jpg",
+        "gallery": [
+            "assets/images/services/fat-freezing-01.jpg",
+            "assets/images/services/fat-freezing-02.jpg"
+        ]
+    },
+    {
+        "id": "detoxification",
+        "title": "Detoxification",
+        "category": "Wellness",
+        "shortDescription": "Explore detoxification treatments at House of Ray.",
+        "description": "Discover the detoxification options available at House of Ray and speak with the team to understand the experience.",
+        "image": "assets/images/services/detoxification.jpg",
+        "gallery": [
+            "assets/images/services/detoxification-01.jpg",
+            "assets/images/services/detoxification-02.jpg"
+        ]
+    },
+    {
+        "id": "skinny-drip",
+        "title": "Skinny Drip",
+        "category": "Wellness",
+        "shortDescription": "Explore Skinny Drip at House of Ray.",
+        "description": "Learn more about the Skinny Drip service offered by House of Ray and arrange a consultation to discuss your options.",
+        "image": "assets/images/services/skinny-drip.jpg",
+        "gallery": [
+            "assets/images/services/skinny-drip-01.jpg",
+            "assets/images/services/skinny-drip-02.jpg"
+        ]
+    },
+    {
+        "id": "snow-white",
+        "title": "Snow White",
+        "category": "Beauty",
+        "shortDescription": "Explore the Snow White treatment at House of Ray.",
+        "description": "Discover the Snow White treatment available at House of Ray and speak with the team about the experience.",
+        "image": "assets/images/services/snow-white.jpg",
+        "gallery": [
+            "assets/images/services/snow-white-01.jpg",
+            "assets/images/services/snow-white-02.jpg"
+        ]
+    },
+    {
+        "id": "teeth-whitening",
+        "title": "Teeth Whitening",
+        "category": "Beauty",
+        "shortDescription": "Explore teeth whitening at House of Ray.",
+        "description": "Learn more about teeth whitening at House of Ray and discuss the treatment during your consultation.",
+        "image": "assets/images/services/teeth-whitening.jpg",
+        "gallery": [
+            "assets/images/services/teeth-whitening-01.jpg",
+            "assets/images/services/teeth-whitening-02.jpg"
+        ]
+    },
+    {
+        "id": "vitamin-b12",
+        "title": "Vitamin B12 Shots",
+        "category": "Wellness",
+        "shortDescription": "Explore Vitamin B12 shots at House of Ray.",
+        "description": "Find out more about Vitamin B12 shots at House of Ray and speak with the team about the service.",
+        "image": "assets/images/services/vitamin-b12.jpg",
+        "gallery": [
+            "assets/images/services/vitamin-b12-01.jpg",
+            "assets/images/services/vitamin-b12-02.jpg"
+        ]
+    }
+]
